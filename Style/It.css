@@ -1,0 +1,53 @@
+#job-category{
+   font-size: 1.5rem;
+  font-weight: 700;
+}
+#job-role{
+    font-size: 1rem;
+    font-weight: 700;
+}
+#job-type{
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 1.43rem!important;
+    color: #1f662c;
+    background-color: #e4f7e6;
+    border-radius: .25rem;
+    width: 18%;
+}
+#job-exp{
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 1.43rem!important;
+    color: #1f662c;
+    background-color: #e4f7e6;
+    border-radius: .25rem;
+    width: 25%;
+}
+.job-salary{
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 1.43rem!important;
+    color: #1f662c;
+    background-color: #e4f7e6;
+    border-radius: .25rem;
+    width: 35%;
+}
+
+.job-apply{
+    box-sizing: border-box;
+    background: none rgb(37, 87, 167);
+    cursor: pointer;
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", Roboto, Noto, sans-serif;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.job-require{
+    font-family: 'Noto Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: #6f6f6f;
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+#job-location{
+    font-size: 14px;
+}
